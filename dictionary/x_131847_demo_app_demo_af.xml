@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Demo_AF" max_length="40" name="x_131847_demo_app_demo_af" type="collection">
+        <element label="Mobile" max_length="40" name="mobile" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

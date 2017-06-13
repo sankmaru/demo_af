@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="mobile" label="Mobile" language="en" table="x_131847_demo_app_demo_af">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mobile</element>
+            <help/>
+            <hint/>
+            <label>Mobile</label>
+            <language>en</language>
+            <name>x_131847_demo_app_demo_af</name>
+            <plural>Mobiles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:03:35</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>636b2206db93f200af9f721dbf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mobile</sys_name>
+            <sys_package display_value="demo_app" source="x_131847_demo_app">5eda6282db93f200af9f721dbf9619ed</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="demo_app">5eda6282db93f200af9f721dbf9619ed</sys_scope>
+            <sys_update_name>sys_documentation_x_131847_demo_app_demo_af_mobile_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:03:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
